@@ -25,7 +25,9 @@ int main(){
     //김상훈 commit, KSH 함수 생성
     //길은지 printf Team 9 추가
     //정석준 JSJ 함수 생성
+    //서한결 return 0 추가
     int helpme = 3;
     KSH(helpme);
     JSJ();
+    return 0;
 }
