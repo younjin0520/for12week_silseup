@@ -26,8 +26,10 @@ int main(){
     //길은지 printf Team 9 추가
     //정석준 JSJ 함수 생성
     //서한결 return 0 추가
+    //이은지 Bye Team 9 추가 
     int helpme = 3;
     KSH(helpme);
     JSJ();
+    printf("Bye Team 9!!\n");
     return 0;
 }
