@@ -10,7 +10,7 @@ void KSH(int a){
 
 int main(){
     printf("Hello OSS!\n");
-
+    printf("Hello Team 9!\n");
     //아무 코드나 추가해서 commit 해주세요..
     
     //김상훈 commit, KSH 함수 생성
